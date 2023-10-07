@@ -1,22 +1,4 @@
-# To-Do container challenge 
+Dikshen Makwana (Beginner) - To-do List
 
-![Docker Ahmedabad (2)](https://github.com/DockerAhmedabad/To-do-container/assets/146727918/1c6d4518-2d87-4266-ab82-ed3c3c6af74f)
-
-
-## Beginners
-
-### Challenge Steps
-
-- Follow the steps mentioned in the [link](https://docs.docker.com/get-started/.) and Containerise your To-Do list app.
-- Run the container locally and create your own to-do list
-- Take a screenshot of your to-do list.
-- Raise a PR and attach the screenshot with the PR.
-
-## Professionals
-
-### Challenge Steps
-- Follow the steps mentioned in the [link](https://docs.docker.com/get-started/.) and Containerise your To-Do list app.
-- Run the container locally and create your own to-do list
-- Take a screenshot of your to-do list.
-- **Create a Github action(CICD) that automates the whole containerisation process.** (Recommend stages to include **Docker build, Push Docker Image to Docker Hub**)
-- Raise the PR with your to-do list screenshot.
+![image](https://github.com/DockerAhmedabad/To-do-container/assets/118763278/42ab20ef-6980-461f-8b92-bd7539a2f448)
+![image](https://github.com/DockerAhmedabad/To-do-container/assets/118763278/ebb3203a-a0ca-4ca1-8963-b52dda42522d)
